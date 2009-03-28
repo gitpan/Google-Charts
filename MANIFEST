@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Google-Charts.t
+lib/Google/Charts.pm
+META.yml                                 Module meta-data (added by MakeMaker)
